@@ -34,8 +34,7 @@ export function SiteFooter() {
               </h4>
             </div>
             <p className="text-sm leading-relaxed text-[#A1A1AA]">
-              Jual - Beli LM ANTAM CertiEye 2020+ ONLY. Menerima pembayaran QRIS
-              &amp; kartu kredit.
+              Jual - Beli LM ANTAM CertiEye 2020+ 
             </p>
           </div>
           <div className="space-y-3 text-sm text-[#A1A1AA]">

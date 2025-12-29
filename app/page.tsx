@@ -242,7 +242,7 @@ function HeroSection({
             Harga di bawah pasar | Buyback di atas Toko
           </p>          
           <p className="max-w-2xl text-lg leading-relaxed text-[#A1A1AA]">          
-          COD area Bekasi-Jakarta atau kirim kurir seluruh Indonesia. Menerima Semua Pembayaran (Transfer/QRIS/Kartu Kredit)
+          COD area Jakarta-Bekasi atau kirim kurir seluruh Indonesia. Melayani Semua Jenis Pembayaran (Transfer/QRIS/Kartu Kredit)
           </p>
           <div className="flex flex-wrap gap-3">
             <Button
@@ -259,11 +259,11 @@ function HeroSection({
               <Link href="#steps">Cara Kerja</Link>
             </Button>
           </div>
-          <div className="grid grid-cols-1 gap-4 sm:grid-cols-3">
+          {/* <div className="grid grid-cols-1 gap-4 sm:grid-cols-3">
             {[
               { label: "Terpercaya", value: "CertiEye 2020+ ONLY" },
-              { label: "Pembayaran ", value: "Menerima Kartu Kredit&QRIS" },
-              { label: "Harga", value: "Dibawah Pasar & Buyback Tinggi" },
+              { label: "Pembayaran ", value: "Menerima Semua Jenis Pembayaran" },
+              { label: "Harga", value: "No.1 Terbaik" },
             ].map((item) => (
               <Card
                 key={item.label}
@@ -279,7 +279,7 @@ function HeroSection({
                 </CardHeader>
               </Card>
             ))}
-          </div>
+          </div> */}
         </div>
 
         <div className="flex-1">
@@ -321,10 +321,10 @@ function HeroSection({
 
 function TrustedStats() {
   const stats = [
-    { value: "CertiEye 2020+", label: "verified dan mudah dicek" },
-    { value: "Transfer/QRIS/CC", label: "pembayaran tanpa cash" },
-    { value: "COD Bekasi-Jakarta", label: "atau kirim kurir" },
-    { value: "Recap", label: "konfirmasi sebelum proses" },
+    { value: "CertiEye 2020+", label: "Verified Aman & Terpercaya" },
+    { value: "Pembayaran", label: "Semua Jenis Pembayaran" },
+    { value: "Pengiriman", label: "COD Jakarta-Bekasi" },
+    { value: "Buyback", label: "No.1 Harga Terbaik" },
   ];
   return (
     <section className="mx-auto max-w-6xl px-4 pb-16 sm:px-6">
@@ -354,7 +354,7 @@ function WhySection() {
     },
     {
       title: "Fulfillment jelas",
-      desc: "COD Bekasi-Jakarta atau kirim kurir, recap sebelum proses.",
+      desc: "COD Jakarta-Bekasi atau kirim kurir, recap sebelum proses.",
     },
   ];
   return (
@@ -402,7 +402,7 @@ function JourneySection() {
     },
     {
       title: "Pilih pengiriman",
-      desc: "COD Bekasi-Jakarta atau kirim kurir ke seluruh Indonesia",
+      desc: "COD Jakarta-Bekasi atau kirim kurir ke seluruh Indonesia",
     },
     {
       title: "Pembayaran",
