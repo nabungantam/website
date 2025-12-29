@@ -1,0 +1,9 @@
+name = "nabungantam"
+main = "./public/index.html"
+
+[build]
+command = "npm run build"
+output_dir = "./dist"
+
+[env.production]
+vars = { ENVIRONMENT = "production" }
