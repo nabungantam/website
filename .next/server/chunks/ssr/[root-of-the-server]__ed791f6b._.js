@@ -1,0 +1,15 @@
+module.exports=[76898,a=>{a.v({className:"inter_b2991b2-module__9mH_6q__className",variable:"inter_b2991b2-module__9mH_6q__variable"})},89578,a=>{a.v({className:"geist_a71539c9-module__T19VSG__className",variable:"geist_a71539c9-module__T19VSG__variable"})},35214,a=>{a.v({className:"geist_mono_8d43a2aa-module__8Li5zG__className",variable:"geist_mono_8d43a2aa-module__8Li5zG__variable"})},72123,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(11857);a.n(d("[project]/node_modules/next/dist/client/script.js <module evaluation>"))},44536,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(11857);a.n(d("[project]/node_modules/next/dist/client/script.js"))},11153,a=>{"use strict";a.i(72123);var b=a.i(44536);a.n(b)},71618,(a,b,c)=>{b.exports=a.r(11153)},33290,a=>{"use strict";var b=a.i(7997),c=a.i(76898);let d={className:c.default.className,style:{fontFamily:"'Inter', 'Inter Fallback'",fontStyle:"normal"}};null!=c.default.variable&&(d.variable=c.default.variable);var e=a.i(89578);let f={className:e.default.className,style:{fontFamily:"'Geist', 'Geist Fallback'",fontStyle:"normal"}};null!=e.default.variable&&(f.variable=e.default.variable);var g=a.i(35214);let h={className:g.default.className,style:{fontFamily:"'Geist Mono', 'Geist Mono Fallback'",fontStyle:"normal"}};null!=g.default.variable&&(h.variable=g.default.variable);var i=a.i(71618);function j({children:a}){return(0,b.jsxs)("html",{lang:"en",className:d.variable,children:[(0,b.jsx)("head",{children:(0,b.jsx)(i.default,{id:"meta-pixel",strategy:"afterInteractive",children:`!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '799830406422473');
+fbq('track', 'PageView');`})}),(0,b.jsxs)("body",{className:`${f.variable} ${h.variable} antialiased`,children:[(0,b.jsx)("noscript",{children:(0,b.jsx)("img",{height:"1",width:"1",style:{display:"none"},src:"https://www.facebook.com/tr?id=799830406422473&ev=PageView&noscript=1",alt:""})}),(0,b.jsx)(i.default,{src:"https://www.googletagmanager.com/gtag/js?id=G-MMN5Q9PG9Y",strategy:"afterInteractive"}),(0,b.jsx)(i.default,{id:"google-analytics",strategy:"afterInteractive",children:`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-MMN5Q9PG9Y');`}),a]})]})}a.s(["default",()=>j,"metadata",0,{title:"Jual Beli LM Antam No.1 ",description:"Jual Beli Emas Antam No.1 CertiEye 2020+ dengan pembayaran transfer, QRIS, kartu kredit. COD Bekasi-Jakarta atau kirim kurir. Cek stok & harga.",icons:{icon:"/assets/icon-mobile.png",apple:"/assets/icon-mobile.png"}}],33290)}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__ed791f6b._.js.map
