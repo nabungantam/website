@@ -1,6 +1,5 @@
 name = "nabungantam"
-main = "./public/index.html"
-
+main = "./dist/index.html"
 [build]
 command = "npm run build"
 output_dir = "./dist"
